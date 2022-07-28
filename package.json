@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TheAppleThatCould/week3-workshop/issues"
   },
-  "homepage": "https://github.com/TheAppleThatCould/week3-workshop#readme"
+  "homepage": "https://github.com/TheAppleThatCould/week3-workshop#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
